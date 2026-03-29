@@ -118,8 +118,8 @@ Responsible for brand identity, logo, social media content, print materials, and
 
 ## 📄 License
 
-© 2025 Flavio Lanzafame. All Rights Reserved.  
-© PowerUp ASD. All Rights Reserved.
+© 2026 Flavio Lanzafame. All Rights Reserved.  
+© 2026 Associazione Sportiva Dilettantistica PowerUp. All Rights Reserved.
 
 Unauthorized copying, modification, distribution, or use of this work,
 in whole or in part, is strictly prohibited without prior written permission from the authors.

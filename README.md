@@ -10,7 +10,7 @@
 
 <br>
 
-> A custom CSS redesign of the PowerUp ASD gym website.  
+> A custom CSS redesign of the PowerUp gym website.  
 > The goal: make the website look and feel as cohesive as the rest of the brand — social content, posters, flyers, and all.
 
 <br>

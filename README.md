@@ -8,16 +8,8 @@
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)
 
-<br>
-
-<a href="README.it.md"><img src="https://flagcdn.com/w20/it.png" width="20" alt="IT"/> Leggi in italiano</a> &nbsp;·&nbsp; <img src="https://flagcdn.com/w20/gb.png" width="20" alt="EN"/> **English**
-
-<br>
-
-> A custom CSS redesign of the PowerUp gym website.  
-> The goal: make the website look and feel as cohesive as the rest of the brand — social content, posters, flyers, and all.
-
-<br>
+A custom CSS redesign of the PowerUp gym website.  
+The goal: make the website look and feel as cohesive as the rest of the brand — social content, posters, flyers, and all.
 
 [🎨 Brand Identity](#-brand-identity) · [📸 Preview](#-preview) · [📁 Repository Structure](#-repository-structure) · [👤 Author](#-author)
 

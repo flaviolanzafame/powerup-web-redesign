@@ -11,8 +11,6 @@
 A custom CSS redesign of the PowerUp gym website.  
 The goal: make the website look and feel as cohesive as the rest of the brand — social content, posters, flyers, and all.
 
-[🎨 Brand Identity](#-brand-identity) · [📸 Preview](#-preview) · [📁 Repository Structure](#-repository-structure) · [👤 Author](#-author)
-
 </div>
 
 ---
@@ -27,11 +25,9 @@ The existing website runs on a managed platform with a fixed template. This proj
 
 ## 👤 Author
 
-**Flavio Lanzafame**
-Graphic designer & web designer for PowerUp ASD.
+**Flavio Lanzafame** — [@flaviolanzafame](https://github.com/flaviolanzafame)  
+Graphic Designer for PowerUp.  
 Responsible for brand identity, logo, social media content, print materials, and this web redesign.
-
-→ [@flaviolanzafame](https://github.com/flaviolanzafame)
 
 ---
 
@@ -44,8 +40,6 @@ Unauthorized copying, modification, distribution, or use of this work,
 in whole or in part, is strictly prohibited without prior written permission from the authors.
 
 See [LICENSE](LICENSE) for details.
-
-> The PowerUp logo and brand assets are property of PowerUp ASD and are used here with permission.
 
 ---
 

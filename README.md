@@ -1,9 +1,5 @@
 # ⚡ PowerUp — Web Redesign
 
-### Brand-consistent CSS redesign of [powerupasd.it](https://powerupasd.it)
-
-<br>
-
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)
